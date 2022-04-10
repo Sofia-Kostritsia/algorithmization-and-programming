@@ -1,0 +1,6 @@
+﻿  laba_2_2semestr.cpp
+C:\Users\User\source\repos\laba_2_2semestr\laba_2_2semestr\Complex.h(38,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\laba_2_2semestr\laba_2_2semestr\laba_2_2semestr.cpp(66,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\laba_2_2semestr\laba_2_2semestr\Complex.h(58): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\User\source\repos\laba_2_2semestr\laba_2_2semestr\Complex.h(42): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  laba_2_2semestr.vcxproj -> C:\Users\User\source\repos\laba_2_2semestr\x64\Debug\laba_2_2semestr.exe
